@@ -1,0 +1,9 @@
+Menuname:Play 
+posx:-0,05
+posy:0,65
+Menuname:Control
+posx:-0,1
+posy:0,15
+Menuname:Exit
+posx:-0,05
+posy:-0,35

@@ -1,0 +1,12 @@
+'key up'-move up
+'key down'-move down
+'key left'-move left
+'key right'-move right
+'+'-size up
+'-'-size down
+'a' turn countercloclwise
+'d' turn cloclwise
+'F1'- Decrease on
+'F2'- Decrease off
+'F3'- Color on
+'F4'- Color off
